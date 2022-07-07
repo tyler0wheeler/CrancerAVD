@@ -84,4 +84,4 @@ console.log("Hello Brian!")
 ```
 
 ## **Picture Example**
-    ![](media/MicrosoftTeams-image (1).png)
+    ![Alt](media/MicrosoftTeams-image (1).png)
