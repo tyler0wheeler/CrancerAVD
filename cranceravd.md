@@ -40,3 +40,39 @@ A workspace is a logical grouping of application groups in Azure Virtual Desktop
 ### **End users** 
 
 After you’ve assigned users to their application groups, they can connect to an Azure Virtual Desktop deployment with any of the Azure Virtual Desktop clients. 
+
+# **Lab Guide Outline** 
+
+### **Pre-requisites to deploy Azure Virtual Desktop** 
+
+**Exercise 1: Create Host Pool from Azure Portal**
+
+Getting Started with the Lab 
+
+* Task 1: Log in to Azure Portal 
+
+* Task 2: Create Host Pool 
+
+**Exercise 2: Create Application Groups and assign to users** 
+
+* Task 1: Create Application Group 
+
+**Exercise 3: Access the Published Applications and Desktop using Browser**
+
+* Task 1: Access the Published Application 
+
+* Task 2: Access the published Desktop 
+
+**Exercise 4: Access the Published Applications and Desktop using AVD Desktop Client** 
+
+* Task 1: Access the Published Applications 
+
+* Task 2: Access the Virtual Desktop 
+
+**Exercise 5: Load Balancing methods**
+
+* Task 1: Add new users to Azure Active Directory 
+
+* Task 2: Update Passwords for the new users 
+
+* Task 3: Change and experience Load Balancing methods 
