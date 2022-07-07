@@ -76,3 +76,8 @@ Getting Started with the Lab
 * Task 2: Update Passwords for the new users 
 
 * Task 3: Change and experience Load Balancing methods 
+
+## **Code Example**
+
+```
+console.log("Hello Brian!")```
