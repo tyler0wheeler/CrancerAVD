@@ -80,4 +80,5 @@ Getting Started with the Lab
 ## **Code Example**
 
 ```
-console.log("Hello Brian!")```
+console.log("Hello Brian!")
+```
