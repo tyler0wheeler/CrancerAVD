@@ -83,5 +83,5 @@ Getting Started with the Lab
 console.log("Hello Brian!")
 ```
 
-## **Picture eExample**
-![](media/MicrosoftTeams-image (1).png)
+## **Picture Example**
+    ![](media/MicrosoftTeams-image (1).png)
